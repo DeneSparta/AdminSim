@@ -32,9 +32,18 @@ Additionally:
 - Easy to setup and use.
 - Free
 
-Download and install on your OpenSim server (in the C:\AdminSim directory).
 
-See: http://dene-sparta.info
+For more info see: http://dene-sparta.info
+
+Download AdminSim_setup.exe file above and install AdminSim on your OpenSim server (in the C:\AdminSim directory).
+
+Prior to performing any 'Tasks' mentioned above, please read the help screens and 'Setup' AdminSim so it understands your OpenSim system.
+
+Have fun.
+
+Dene
+
+----------------------
 
 OpenSimulator is an open source multi-platform, multi-user 3D application server. OpenSimulator is used to simulate virtual environments. These virtual worlds can be accessed with the 'Second Life' type viewers.
 
