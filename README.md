@@ -23,12 +23,12 @@ It can perform the following 'Tasks' on single or multiple instances:
 - Single button Stop and Start all instances in a single console,
 - Create MySQL databases,
 - Configure GidCommon.ini for database usage (SQLite, SQLiteLegacy and MySQL supported).
+- Creates or updates the OpenSim setup files; such as 'Start.bat', 'backup.txt', 'restore.txt', 'Fullbackup.txt' (etc).
 
 Additionally:
 - No need to customize OSGrid's default OpenSim.ini,
 - Have an additional ini file that 'sits on top' of each default OpenSim.ini. You don't need to review OpenSim.ini at each upgrade. (Although you will occasionally need to review and adjust this new ini to holdany new customizations you want.)
 - No need to use an external editor (most common variables can changed in the GUI and the rest can be done with embedded editors)
-- Creates or updates the OpenSim setup files; such as 'Start.bat', 'backup.txt', 'restore.txt', 'Fullbackup.txt' (etc).
 - Easy to setup and use.
 - Free
 
