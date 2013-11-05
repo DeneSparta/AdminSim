@@ -11,7 +11,7 @@ It's suitable for running OpenSim on a server or home PC in 'grid' mode and conn
 OpenSim is used to create a virtual environment (or world with regions of land).
 
 Summary
-Can perform the following 'Tasks' on single or multiple instances:
+It can perform the following 'Tasks' on single or multiple instances:
 - Console commands,
 - Broadcast Alerts,
 - Backup to Oar, r32 files etc,
