@@ -33,4 +33,7 @@ Additionally:
 
 Download and install on your OpenSim server (in the C:\AdminSim directory).
 
-For more see: http://dene-sparta.info 
+For more see: http://dene-sparta.info
+
+OpenSimulator is an open source multi-platform, multi-user 3D application server. 
+http://opensimulator.org/wiki/Main_Page
