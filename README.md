@@ -34,6 +34,10 @@ Additionally:
 
 Download and install on your OpenSim server (in the C:\AdminSim directory).
 
-For more see: http://dene-sparta.info
+See: http://dene-sparta.info
 
-OpenSimulator is an open source multi-platform, multi-user 3D application server. OpenSimulator is used to simulate virtual environments. These virtual worlds can be accessed with the 'Second Life' type viewers. http://opensimulator.org/wiki/Main_Page
+OpenSimulator is an open source multi-platform, multi-user 3D application server. OpenSimulator is used to simulate virtual environments. These virtual worlds can be accessed with the 'Second Life' type viewers.
+
+https://github.com/opensim/opensim
+
+http://opensimulator.org/wiki/Main_Page
