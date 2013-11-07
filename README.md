@@ -6,9 +6,9 @@ AdminSim is a glorified menu that communicates with OpenSim's XML-RPC interface 
 
 (Well.., ok, it's a bit more than that, but that description makes it easier to understand.)
 
-It's suitable for running OpenSim on a server or home PC in 'grid' mode and connect to OSGrid (or similiar grids that allow owner operated instances / regions / land to be connencted).
+It's suitable for running OpenSim on a server or home PC in 'grid' mode and connected to OSGrid (or similiar grids, ones that allow owner operated instances / regions / land to be connencted to them).
 
-OpenSim is used to create a virtual environment (or world with regions of land).
+OpenSim is used to create a virtual environment (world with regions of land).
 
 Summary
 
