@@ -4,7 +4,7 @@ AdminSim is a Graphical User Interface that will assist in setting up and admini
 
 AdminSim gets tasks done easily on multiple instances, almost at the same time.
 
-It's suitable for running OpenSim on a server or home PC in 'grid' mode and connected to OSGrid (or similiar grids, ones that allow owner operated instances / regions / land to be connencted to them).
+It's suitable for administering OpenSim on a server or home PC in 'grid' mode and connected to OSGrid (or similiar grids, ones that allow owner operated instances / regions / land to be connencted to them).
 
 OpenSim is used to create a virtual environment (world with regions of land).
 
