@@ -2,9 +2,9 @@ AdminSim
 ========
 AdminSim is a Graphical User Interface that will assist in setting up and administering an 'owner operated' Windows based multi instance Open Simulator (OpenSim) virtual reality system.
 
-AdminSim is a glorified menu that communicates with OpenSim's XML-RPC interface and gets tasks done easily on multiple instances, almost at the same time.
+AdminSim gets tasks done easily on multiple instances, almost at the same time.
 
-(Well.., ok, it's a bit more than that, but that description makes it easier to understand.)
+(It communicates with the OpenSim XML-RPC interface.)
 
 It's suitable for running OpenSim on a server or home PC in 'grid' mode and connected to OSGrid (or similiar grids, ones that allow owner operated instances / regions / land to be connencted to them).
 
