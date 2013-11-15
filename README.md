@@ -1,42 +1,35 @@
 AdminSim
 ========
-AdminSim is a Graphical User Interface that will assist in setting up and administering an 'owner operated' Windows based multi instance Open Simulator (OpenSim) virtual reality system.
+This Graphical User Interface will assist you in setting up and administering your 'owner operated' (Windows) multi instance OpenSim virtual reality system.
 
-AdminSim gets tasks done easily on multiple instances, almost at the same time.
+AdminSim gets things done easily.
 
-It's suitable for administering OpenSim on a server or home PC in 'grid' mode and connected to OSGrid (or similiar grids, ones that allow owner operated instances / regions / land to be connencted to them).
-
-OpenSim is used to create a virtual environment (world with regions of land).
+It's suitable for administering OpenSim running in 'grid' mode on a server or home PC and connected to OSGrid (or similiar open grids).
 
 Summary
 
 It can perform the following 'Tasks' on single or multiple instances:
-- Sends console server commands to OpenSim (communicates with the XML-RPC interface.),
-- Broadcast Alerts,
-- Backup to Oar, r32 files etc,
-- Restore from Oar, r32 files etc,
-- Notification of availability of a new OSGrid upgrade,
-- Download and Upgrade your OpenSims from OSGrid (or elsewhere),
-- Revert OpenSims,
-- Single button Stop and Start all instances in a single console,
-- Create MySQL databases,
-- Configure GidCommon.ini for database usage (SQLite, SQLiteLegacy and MySQL supported).
-- Creates or updates the OpenSim setup files; such as 'Start.bat', 'backup.txt', 'restore.txt', 'Fullbackup.txt' (etc).
+
+Sends console server commands to OpenSim,
+Broadcast Alerts In-World,
+Backup to & restore from Oar, r32 files,
+Be notified of OpenSim upgrades automatically,
+Download and Upgrade to the latest version OpenSims easily,
+Revert (Undo) Upgrades,
+Stop and Start all instances in a single console window (via a single button press),
+Create MySQL databases,
+Configure GidCommon.ini (for database usage with SQLite, SQLiteLegacy and MySQL supported).
+Creates or updates OpenSim setup files; such as 'Start.bat', 'backup.txt', 'restore.txt', 'Fullbackup.txt' (etc).
 
 Additionally:
-- No need to customize OSGrid's default OpenSim.ini,
-- Have an additional ini file that 'sits on top' of each default OpenSim.ini. You don't need to review OpenSim.ini at each upgrade. (Although you will occasionally need to review and adjust this new ini to holdany new customizations you want.)
-- No need to use an external editor (most common variables can changed in the GUI and the rest can be done with embedded editors)
-- Easy to setup and use.
-- Free
+No need to customize OSGrid's default OpenSim.ini at each upgrade,
+No need to use an external editor as most common variables can changed in the GUI,
+Easy to setup and use,
+Free...
 
+So download the latest exe file above and install in C:\AdminSim directory.
 
-For more info see: http://dene-sparta.info
-
-Download AdminSim_setup.exe file above and install AdminSim on your OpenSim server (in the C:\AdminSim directory).
-
-Prior to performing any 'Tasks' mentioned above, please read the help screens and 'Setup' AdminSim so it understands your OpenSim system.
-
+Prior to performing any 'Tasks' mentioned above, please read the 'Help' screens and then set up AdminSim via the 'Setup' screen so it understands your OpenSim system.
 Have fun.
 
 Dene
