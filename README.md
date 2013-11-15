@@ -6,9 +6,10 @@ AdminSim gets things done easily.
 
 It's suitable for administering OpenSim running in 'grid' mode on a server or home PC and connected to OSGrid (or similiar open grids).
 
-Summary
+Summary:
 
 It can perform the following 'Tasks' on single or multiple instances:
+
 	Sends console server commands to OpenSim,
 	Broadcast Alerts In-World,
 	Backup to & restore from Oar, r32 files,
@@ -17,10 +18,11 @@ It can perform the following 'Tasks' on single or multiple instances:
 	Revert (Undo) Upgrades,
 	Stop and Start all instances in a single console window (via a single button press),
 	Create MySQL databases,
-	Configure GidCommon.ini (for database usage with SQLite, SQLiteLegacy and MySQL supported).
+	Configure GidCommon.ini (for database usage with SQLite, SQLiteLegacy and MySQL supported),
 	Creates or updates OpenSim setup files; such as 'Start.bat', 'backup.txt', 'restore.txt', 'Fullbackup.txt' (etc).
 
 Additionally:
+
 	No need to customize OSGrid's default OpenSim.ini at each upgrade,
 	No need to use an external editor as most common variables can changed in the GUI,
 	Easy to setup and use,
