@@ -14,11 +14,11 @@ It can perform the following 'Tasks' on single or multiple instances:
 	Broadcast Alerts In-World,
 	Backup to & restore from Oar, r32 files,
 	Be notified of OpenSim upgrades automatically,
-	Download and Upgrade to the latest version OpenSims easily,
+	Download and Upgrade the latest version OpenSims easily,
 	Revert (Undo) Upgrades,
 	Stop and Start all instances in a single console window (via a single button press),
 	Create MySQL databases,
-	Configure GidCommon.ini (for database usage with SQLite, SQLiteLegacy and MySQL supported),
+	Configure GridCommon.ini (for database usage with SQLite, SQLiteLegacy and MySQL supported),
 	Creates or updates OpenSim setup files; such as 'Start.bat', 'backup.txt', 'restore.txt', 'Fullbackup.txt' (etc).
 
 Additionally:
@@ -30,14 +30,14 @@ Additionally:
 
 So download the latest exe file above and install in C:\AdminSim directory.
 
-Prior to performing any 'Tasks' mentioned above, please read the 'Help' screens and then set up AdminSim via the 'Setup' screen so it understands your OpenSim system.
+Before to performing any 'Tasks' mentioned above, please read the 'Help' screens and then set up AdminSim via the 'Setup' screen so it understands your OpenSim system.
 Have fun.
 
 Dene
 
 ----------------------
 
-OpenSimulator is an open source multi-platform, multi-user 3D application server. OpenSimulator is used to simulate virtual environments. These virtual worlds can be accessed with the 'Second Life' type viewers.
+OpenSimulator is an open source multi-platform, multi-user 3D application server. OpenSimulator is used to simulate virtual environments. These virtual worlds can be accessed with a 'Second Life' type viewer.
 
 https://github.com/opensim/opensim
 
