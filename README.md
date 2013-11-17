@@ -1,10 +1,10 @@
 AdminSim
 ========
-This Graphical User Interface will assist you in setting up and administering your 'owner operated' (Windows) multi instance OpenSim virtual reality system.
+If you are thinking about or are currently running multiple instances of OpenSim, then this Graphical User Interface may make it easier.
+
+This program will assist you to set up and administer your 'owner operated' (Windows) OpenSim virtual reality system running in 'grid' mode and connected to OSGrid (or similiar open grids).
 
 AdminSim gets things done easily.
-
-It's suitable for administering OpenSim running in 'grid' mode on a server or home PC and connected to OSGrid (or similiar open grids).
 
 Summary:
 
