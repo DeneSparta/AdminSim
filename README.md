@@ -28,6 +28,8 @@ Additionally:
 	Easy to setup and use,
 	Free...
 
+AdminSim is being tested and de-bugged. Feedback and comments appreciated.
+
 Download and install in C:\AdminSim directory.
 
 Before doing any 'Tasks', please read the 'Help' screens and set up AdminSim (via the 'Setup' screen) so it understands your OpenSim system.
