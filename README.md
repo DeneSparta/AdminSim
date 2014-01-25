@@ -28,7 +28,7 @@ Additionally:
 	Easy to setup and use,
 	Free...
 
-AdminSim is being tested and de-bugged. Feedback and comments appreciated.
+AdminSim is currently being tested and de-bugged. Feedback and comments appreciated. Put these in 'Issues'.
 
 Download and install in C:\AdminSim directory.
 
