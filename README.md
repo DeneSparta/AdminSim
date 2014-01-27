@@ -19,6 +19,7 @@ Perform the following 'Tasks' (on single or multiple instances):
 	Create MySQL databases,
 	Configure GridCommon.ini (for database usage with SQLite, SQLiteLegacy and MySQL supported),
 	Create or update OpenSim setup files; such as 'Start.bat', 'backup.txt', 'restore.txt', 'Fullbackup.txt' (etc).
+	Automatically Start All OpenSim instances when you login.
 
 Additionally:
 
