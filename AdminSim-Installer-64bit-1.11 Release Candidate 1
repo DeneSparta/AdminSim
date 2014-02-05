@@ -1,8 +1,0 @@
-AdminSim-Installer-64bit-1.11 Release Candidate 1
-
-
-- Fixed first download when download directory not created, the message says successful but no download.
-- Added notes about Windows XP Home Edition limitation preventing stopping and starting of the Console.
-- Get external IP address and suggest it in the Setup screen. http://stackoverflow.com/questions/7909362/
-- Fixed create or delete database (via Setup screen button) not working correctly.
-- Rearranged Setup screen layout.
