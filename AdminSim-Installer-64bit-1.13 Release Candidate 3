@@ -1,0 +1,8 @@
+AdminSim-Installer-64bit-1.13 Release Candidate 3
+
+- Menu re-arranged.
+- Tweaked "Setup Help" screen.
+- Removed menu from WebStats screen.
+- Make WebStats, Preferences & EditMyOpenSim.ini screens auto save too.
+- Add "OpenSim Auto Start" input box to Preferences screen.
+- Added GridCommon.ini support for formats from OSGrid, FrancoGrid and Metropolis grids.
