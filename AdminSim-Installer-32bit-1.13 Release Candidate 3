@@ -6,3 +6,6 @@ AdminSim-Installer-32bit-1.13 Release Candidate 3.exe
 - Make WebStats, Preferences & EditMyOpenSim.ini screens auto save too.
 - Add "OpenSim Auto Start" input box to Preferences screen.
 - Added GridCommon.ini support for formats from OSGrid, FrancoGrid and Metropolis grids.
+
+Download via the hyperlink on AdminSim Main page (it's a small blue link) or
+from https://github.com/DeneSparta/AdminSim/releases
