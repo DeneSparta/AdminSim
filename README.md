@@ -29,7 +29,7 @@ Additionally:
 	Easy to setup and use,
 	Free...
 
-AdminSim is currently undergoing useability improvements. Feedback and comments are appreciated.
+AdminSim is currently undergoing useability improvements. Feedback and comments (via adding 'Issues') are appreciated.
 
 Download and install in C:\AdminSim directory.
 
