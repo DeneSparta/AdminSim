@@ -1,8 +1,8 @@
 AdminSim
 ========
-If you are thinking about or are currently running multiple instances of OpenSim, then this Graphical User Interface may make it easier.
+Thinking about running multiple instances of OpenSim? Currently running a bunch of them? Then this Graphical User Interface may make it easier.
 
-This program assists in setting up and administering your 'owner operated' (Windows) OpenSim virtual reality system running in 'grid' mode and connected to OSGrid (or similiar open grids).
+This program assists setting up and administering your 'owner operated' (Windows) OpenSim virtual reality system running in 'grid' mode and connected to OSGrid (or similiar open grids).
 
 AdminSim gets things done easily.
 
@@ -11,29 +11,28 @@ Summary:
 Perform the following 'Tasks' (on single or multiple instances):
 
 	Send console server commands to OpenSim,
-	Broadcast Alerts In-World,
-	Backup to & restore from Oar, r32 files,
-	Download and Upgrade the latest version OpenSims easily,
-	Revert (Undo) Upgrades,
+	Broadcast Alerts In-World (into your regions),
+	Backup to & restore from Oar, r32 type files,
+	Download and Upgrade to the latest version of OpenSim easily,
+	Revert (or Undo) Upgrades,
 	Stop and Start all instances in a single console window (via a single button press),
 	Create MySQL databases,
 	Configure GridCommon.ini (for database usage with SQLite, SQLiteLegacy and MySQL supported),
-	Create or update OpenSim setup files; such as 'Start.bat', 'backup.txt', 'restore.txt', 'Fullbackup.txt' (etc).
-	Automatically Start All OpenSim instances when you login.
+	Create or update OpenSim setup text files; such as 'Start.bat', 'backup.txt', 'restore.txt', 'Fullbackup.txt' (etc).
+	Automatically start All OpenSim instances.
 
 Additionally:
 
 	No need to customize OSGrid's default OpenSim.ini at each upgrade,
 	No need to use an external editor as most common variables can changed in the GUI,
-	Be notified of OpenSim upgrades automatically,
+	Be notified of OpenSim upgrades,
 	Easy to setup and use,
 	Free...
 
-AdminSim is currently undergoing useability improvements. Feedback and comments (via adding 'Issues') are appreciated.
 
-Download and install in C:\AdminSim directory.
+Download and install into the C:\AdminSim directory.
 
-Before doing any 'Tasks', please read the 'Help' screens and set up AdminSim (via the 'Setup' screen) so it understands your OpenSim system.
+NOTE: Before doing any 'Tasks', please read the 'Help' screens and set up AdminSim (via the 'Setup' screen) - so AdminSim understands your OpenSim system.
 
 Have fun.
 
